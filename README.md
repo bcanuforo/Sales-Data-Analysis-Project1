@@ -39,29 +39,34 @@ sales-data-analysis-project/
 ├── product_sales.png                 # Product performance chart
 ├── region_sales.png                  # Regional sales chart
 └── README.md                         # Project documentation
-Visualizations
-Top Product Sales Performance
-<img src="product_sales.png" alt="Top Product Sales Performance">
-Sales Performance by Region
-<img src="region_sales.png" alt="Sales Performance by Region">
-Key Insights
 
-Sales exhibit noticeable fluctuations with clear peak and low periods
-A few products contribute to the majority of total revenue
-Some products show consistently low performance
-Revenue is unevenly distributed across different regions
-Seasonal or periodic patterns are visible in the data
+## Visualizations
 
-Business Recommendations
+### Top Product Sales Performance
+![Top Product Sales Performance](product_sales.png)
 
-Focus marketing efforts and inventory on high-performing products
-Consider phasing out or improving consistently underperforming products
-Use trend analysis for better demand forecasting and inventory management
-Develop targeted strategies to boost sales in underperforming regions
-Leverage data insights for strategic business planning
+### Sales Performance by Region
+![Sales Performance by Region](region_sales.png)
 
-Author
-Boniface Anuforo
-Data Analyst | Python | Pandas | Data Visualization
-📧 bcanuforo@yahoo.com
-Made with love in Owerri, Nigeria
+## Key Insights
+- Sales exhibit noticeable fluctuations with clear peak and low periods
+- A few products contribute to the majority of total revenue
+- Some products show consistently low performance
+- Revenue is unevenly distributed across different regions
+- Seasonal or periodic patterns are visible in the data
+
+## Business Recommendations
+- Focus marketing efforts and inventory on high-performing products
+- Consider phasing out or improving consistently underperforming products
+- Use trend analysis for better demand forecasting and inventory management
+- Develop targeted strategies to boost sales in underperforming regions
+- Leverage data insights for strategic business planning
+
+---
+
+**Author**  
+Boniface Anuforo  
+Data Analyst | Python | Pandas | Data Visualization  
+📧 bcanuforo@yahoo.com  
+
+Made with ❤️ in Owerri, Nigeria
