@@ -43,10 +43,10 @@ sales-data-analysis-project/
 ## Visualizations
 
 ### Top Product Sales Performance
-![Top Product Sales Performance](product_sales.png)
+![Top Product Sales Performance](https://raw.githubusercontent.com/bcanuforo/Sales-Data-Analysis-Project1/main/product_sales.png)
 
 ### Sales Performance by Region
-![Sales Performance by Region](region_sales.png)
+![Sales Performance by Region](https://raw.githubusercontent.com/bcanuforo/Sales-Data-Analysis-Project1/main/region_sales.png)
 
 ## Key Insights
 - Sales exhibit noticeable fluctuations with clear peak and low periods
