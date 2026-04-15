@@ -47,10 +47,12 @@ region_sales.png
 ## 📊 Sales Data Visualizations
 
 ### Product Sales
-![Product Sales](product_sales.png)
+
+![Product Sales](./product_sales.png)
 
 ### Region Sales
-![Region Sales](region_sales.png)
+
+![Region Sales](./region_sales.png)
 
 ## Key Insights
 - Sales exhibit noticeable fluctuations with clear peak and low periods
