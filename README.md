@@ -1,96 +1,67 @@
-📊 Sales Data Analysis Project
-📌 Project Overview
-This project analyzes retail sales data using Python to uncover business insights and support data-driven decision-making.
+# Sales Data Analysis Project
 
-🎯 Objective
-To identify:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
+## Overview
 
-Top-performing products
+This project demonstrates **Exploratory Data Analysis (EDA)** on a sales dataset using Python. The analysis focuses on cleaning the data, uncovering key trends, identifying top-performing products, evaluating regional performance, and providing actionable business recommendations.
 
+## Objectives
 
-High-revenue regions
+- Clean and preprocess the raw sales data
+- Perform comprehensive exploratory data analysis
+- Discover sales trends over time
+- Identify best and worst performing products
+- Analyze sales distribution by region
+- Generate data-driven business insights
 
+## Tools & Technologies
 
-Key sales trends
+- **Python 3**
+- **Pandas** – Data manipulation and cleaning
+- **NumPy**
+- **Matplotlib & Seaborn** – Data visualization
+- **Jupyter Notebook**
 
+## Dataset
 
+- **Filename**: `sales_data.csv`
+- Contains sales transactions with details such as order date, product, quantity, unit price, region, and more.
 
-📂 Dataset
-The dataset contains:
+## Repository Structure
 
+```bash
+sales-data-analysis-project/
+├── sales_data.csv                    # Raw sales dataset
+├── Copy_of_Sales_data_Analysis.ipynb # Main Jupyter Notebook
+├── product_sales.png                 # Product performance chart
+├── region_sales.png                  # Regional sales chart
+└── README.md                         # Project documentation
+Visualizations
+Top Product Sales Performance
+<img src="product_sales.png" alt="Top Product Sales Performance">
+Sales Performance by Region
+<img src="region_sales.png" alt="Sales Performance by Region">
+Key Insights
 
-Product categories
+Sales exhibit noticeable fluctuations with clear peak and low periods
+A few products contribute to the majority of total revenue
+Some products show consistently low performance
+Revenue is unevenly distributed across different regions
+Seasonal or periodic patterns are visible in the data
 
+Business Recommendations
 
-Sales regions
+Focus marketing efforts and inventory on high-performing products
+Consider phasing out or improving consistently underperforming products
+Use trend analysis for better demand forecasting and inventory management
+Develop targeted strategies to boost sales in underperforming regions
+Leverage data insights for strategic business planning
 
-
-Quantity sold
-
-
-Unit prices
-
-
-Revenue
-
-
-
-🔍 Key Insights
-
-
-Total Revenue: 503,060
-
-
-Top Product: Clothes
-
-
-Top Region: West
-
-
-
-📈 Business Insights
-
-
-Clothes generated the highest revenue, indicating strong demand
-
-
-West region outperformed others significantly
-
-
-Lower-performing regions present growth opportunities
-
-
-
-🛠 Tools & Technologies
-
-
-Python
-
-
-Pandas
-
-
-Matplotlib
-
-
-Jupyter Notebook / Google Colab
-
-
-
-📊 Visualizations
-Revenue by Product
-
-Revenue by Region
-
-
-▶️ How to Run the Project
-
-
-Clone the repository
-
-
-Open the .ipynb file in Jupyter Notebook or Google Colab
-
-
-Run all cells
+Author
+Boniface Anuforo
+Data Analyst | Python | Pandas | Data Visualization
+📧 bcanuforo@yahoo.com
+Made with love in Owerri, Nigeria
