@@ -40,6 +40,10 @@ sales-data-analysis-project/
 ├── region_sales.png                  # Regional sales chart
 └── README.md                         # Project documentation
 
+README.md
+product_sales.png
+region_sales.png
+
 ## 📊 Sales Data Visualizations
 
 ### Product Sales
