@@ -33,13 +33,13 @@ This project demonstrates **Exploratory Data Analysis (EDA)** on a sales dataset
 ## Repository Structure
 
 ```bash
-sales-data-analysis-project/
-├── sales_data.csv                    # Raw sales dataset
-├── Copy_of_Sales_data_Analysis.ipynb # Main Jupyter Notebook
-├── product_sales.png                 # Product performance chart
-├── region_sales.png                  # Regional sales chart
-└── README.md                         # Project documentation
 
+sales-data-analysis-project/
+├── sales_data.csv                  # Raw sales dataset
+├── Copy_of_Sales_data_Analysis.ipynb # Main Jupyter Notebook
+├── product_sales.png               # Product performance chart
+├── region_sales.png                # Regional sales chart
+└── README.md                       # Project documentation
 ## Visualizations
 
 ### Top Product Sales Performance
