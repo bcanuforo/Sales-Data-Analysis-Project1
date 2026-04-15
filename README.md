@@ -42,8 +42,8 @@ sales-data-analysis-project/
 
 ## Visualizations
 
-![Product Sales](visualizations/product_sales.png)
-![Region Sales](visualizations/region_sales.png)
+![Product Sales](product_sales.png)
+![Region Sales](region_sales.png)
 
 ## Key Insights
 - Sales exhibit noticeable fluctuations with clear peak and low periods
